@@ -26,4 +26,4 @@ It's aimed at everyday users as much as power users.
 * **Batch Processing:** Automate repetitive tasks across hundreds of images with custom presets.
 
 ## A note on usage
-> This project is shared as-is. All product names and logos belong to their respective owners.                     
+> This project is shared as-is. All product names and logos belong to their respective owners.                      
